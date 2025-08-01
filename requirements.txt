@@ -1,0 +1,15 @@
+# Data Processing
+pandas
+numpy
+
+# Database Connectivity
+mysql-connector-python
+
+# Cloud Simulation (Azurite)
+azure-storage-blob
+
+# Machine Learning for Forecasting
+scikit-learn
+
+# Optional: Data Generation
+faker
